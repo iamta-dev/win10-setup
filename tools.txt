@@ -1,0 +1,8 @@
+Hools tweak
+https://github.com/White-Tiger/T-Clock/releases
+https://github.com/microsoft/PowerToys/releases
+https://github.com/ChrisAnd1998/TaskbarX/releases
+
+
+How to Make Any App Launch at Startup in Windows 10
+https://www.makeuseof.com/tag/make-app-launch-startup-windows-10/
